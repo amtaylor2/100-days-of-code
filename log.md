@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 0: October 6th, 2020
+**Today's Progress**: Enrolled in The Odin Project's, "Ruby On Rails Full Stack," curriculum. I completed 34% of the Wed Development 101 course. Notably, I installed Xubuntu onto VMWare; I created an SSH Key on github to allow commits from the terminal; I watched Corey Schaffer's Git Tutorial for Beginners;
+**Thoughts:** I am glad to be done with the installation process and look forward to reviewing the front end tomorrow as this is an area I am comfortable with, but want to push forward and learn more. 
+
+Tomorrow I will be able to share links to my work, having nothing to show for today's work other than the creation of the SSH Key that is the going to be used for the entirety of the curriculum :)
+
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
