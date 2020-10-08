@@ -7,12 +7,12 @@
 Tomorrow I will be able to share links to my work, having nothing to show for today's work other than the creation of the SSH Key that is the going to be used for the entirety of the curriculum :)
 
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: October 7th, 2020 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Completed Git Basics Project on the Odin Project and started a new project creating the google homepage. I also reviewed html, css, and git. I read, "How to write a Git message," and learned how to format a Git message.
+
+**Thoughts:** Creating the google homepage will be a challenge, however, I am excited to use my html and CSS knowledge and create a project. 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
