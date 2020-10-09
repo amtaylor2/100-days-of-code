@@ -14,7 +14,11 @@ Tomorrow I will be able to share links to my work, having nothing to show for to
 
 **Thoughts:** Creating the google homepage will be a challenge, however, I am excited to use my html and CSS knowledge and create a project. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: October 8th, 2020
+
+**Today's Progress**: I created an html skeleton for The Odin Project's, "Google homepage project." I also created a CSS file for external styling. 
+
+**Thoughts**: Learning Chrome Dev Tools is helping me understand the basics of tools. This project is challenging me, but also motivating me because I can see how much I need to learn to become a developer. I look forward to looking back seeing how far I've come by challenging myself daily! 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
